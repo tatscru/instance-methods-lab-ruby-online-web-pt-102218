@@ -3,5 +3,10 @@ class Dog
   def bark 
     # this is an instance because it is within a class
     puts "Woof!"
+    
+  def sit
+    puts "The Dog is sitting"
+  end 
+  
   end 
 end 
